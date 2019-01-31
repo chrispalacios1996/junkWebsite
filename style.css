@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+
+body{ background-color:lightcyan}
+h1{
+font-family: 'Major Mono Display', monospace;}
+
+h1{
+  font-size:400%
+}
+h1{
+  background-color:mintcream
+}
+
+h1{
+  color:yellow
+}
+ul{
+  text-align:center;
+}
+h4{
+  font-family: 'Kaushan Script', cursive;
+}
+h4{
+  font-size:250%
+}
+h5{
+  font-family: 'Kaushan Script', cursive;
+}
+h4:hover{
+  color:yellow;
+}
+
+a:visited{
+  color:red;
+
